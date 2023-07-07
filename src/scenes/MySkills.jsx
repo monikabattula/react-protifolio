@@ -24,8 +24,8 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-            fames odio in at.
+          Aliquam, amet dui feugiat facilisi dui Some trucks are intact
+            hunger and hatred 
           </p>
         </motion.div>
 
@@ -71,9 +71,9 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            A auctor pharetra hendrerit mattis amet etiam interdum platea. Est
-            morbi porttitor scelerisque fermentum, sagittis non egestas. Amet
-            odio sit sagittis,
+           we continue towards the french doors that lead to the resturant.
+           They're propped open , and the conversation drift into the lobby along with the smell
+           beamed ceiling and happy.
           </p>
         </motion.div>
 
@@ -99,10 +99,10 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Urna, eget pulvinar dolor cursus volutpat dictum odio. Nec ultricies
-            amet in in neque nibh tortor. Libero sed pretium justo nulla blandit
-            nulla amet habitant iaculis. Iaculis in congue vitae sollicitudin
-            faucibus a
+          An urn, he needs a pillow for the course of the weekend. And not even once
+            amet in in nor nibh tortor It's free but the price just doesn't flatter
+            There are no targeted residents. Targeted in the homework of life care
+            throat a
           </p>
         </motion.div>
         {/* IMAGINATIVE */}
@@ -127,10 +127,10 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Accumsan eu fringilla nisi, eget. Vitae, eget ut id proin arcu in
-            curabitur. Lectus libero, egestas enim aliquam quis felis amet.
-            Sagittis, amet netus fringilla netus lobortis odio sed platea.
-            Bibendum.
+          Accumulated eu fringilla, if not, needs. Life needs to be in the spotlight
+            will be taken care of A free bed, for the need of some kind of smart phone.
+            Sagittis, amet netus fringilla netus loborti hate but the street.
+            To be drunk.
           </p>
         </motion.div>
       </div>

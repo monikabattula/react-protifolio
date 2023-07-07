@@ -25,8 +25,7 @@ const Project = ({ title }) => {
       <div className={overlayStyles}>
         <p className="text-2xl font-playfair">{title}</p>
         <p className="mt-7">
-          Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Nulla
-          porttitor accumsan tincidunt.
+          Its tells about the protflio and the by using react
         </p>
       </div>
       <img src={`../assets/${projectTitle}.jpeg`} alt={projectTitle} />
@@ -58,9 +57,8 @@ const Projects = () => {
           </div>
         </div>
         <p className="mt-10 mb-10">
-          Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-          fames odio in at. At magna ornare dictum lectus. Purus massa morbi
-          purus nec eget eleifend ut elit.
+        A unique way to showcase your work and let others know about yourself. 
+        It's like an evergreen platform for your projects, case studies, and information about you
         </p>
       </motion.div>
 

@@ -42,8 +42,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            A auctor pharetra hendrerit mattis amet etiam interdum platea.
-          </p>
+          From the author of the pharetra hendrerit, the real estate is also sometimes in the street.          </p>
         </motion.div>
 
         <motion.div
@@ -60,8 +59,8 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            Aliquam aliquet integer ut fames odio in at. At magna ornare dictum
-            lectus.
+          Some trucks are full so that you hate the hunger in the at. But it was said to be a great ornament
+            the bed
           </p>
         </motion.div>
 
@@ -79,8 +78,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            Fames odio in at. At magna ornare dictum lectus.
-          </p>
+          Hate hunger in at. But the bed was said to be a great ornament.          </p>
         </motion.div>
       </div>
     </section>
